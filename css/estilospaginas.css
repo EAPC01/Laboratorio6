@@ -1,0 +1,39 @@
+header{
+    background-color: black;
+    background-size: 50%;
+    background-position: center;
+    height: 100px;
+    padding: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    display: block;
+}
+nav ul {
+    margin: 0;  
+    padding: 0;
+    list-style-type: none;
+
+}
+
+nav li{
+    display: inline-block;
+    margin-right: 20px;
+}
+
+
+#cuadrop{
+    background-color: lightskyblue;
+    display: block ;
+    height: 200px;
+}
+
+
+#col{
+    background-color: lightskyblue;
+}
+#fon{
+    background-color: lightslategrey;
+}
+#col2{
+    background-color: lightskyblue;
+}
